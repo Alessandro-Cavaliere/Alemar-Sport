@@ -1,6 +1,8 @@
 # Alemar Sport
 
-Il sito Web si pone l’obiettivo di garantire prodotti e articoli sportivi di alta fattura per tutte le categorie di clienti(Bambini,Donne,Uomini ecc…).
-L’obiettivo è quello di creare un’interfaccia user friendly , chiara ,facile da utilizzare e capace di garantire un’esperienza positiva all’utente. 
-L’interfaccia ha il compito di essere più intuitiva possibile ,capace di indirizzare al meglio il cliente verso acquisti consoni alle sue esigenze.
-Il sito ha come scopo principale quello di essere responsive, quindi di avere un’interfaccia grafica di diversa visualizzazione (ottimizzata)in base al dispositivo utilizzato.
+The website aims to guarantee high-quality sports products and articles for all categories of customers (Children, Women, Men, etc ...).
+The goal is that of a user friendly interface, clear, easy to use and capable of guaranteeing a positive user experience.
+The interface has the task of being as intuitive as possible, capable of directing the customer towards purchases according to his needs.
+The main purpose of the site is to be responsive, therefore to have a graphical interface of different visualization (optimized) based on the device used.
+
+>**The project was completed in 2021 for the web software technologies exam.**
